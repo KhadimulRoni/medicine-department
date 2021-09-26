@@ -8,7 +8,7 @@ const Pharmaceutical = (props) => {
     const{img,name,established,type,value,share,rate} = props.pharmaceutical;
     const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />
     return (
-        <div className="medicine-company col-md-4">
+        <div className="medicine-company col-md-4 py-2">
             <img src={img} alt=""/>
             <p className="name">Company : {name}</p>
             <p><small>Established: {established}</small></p>

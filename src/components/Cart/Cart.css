@@ -1,5 +1,13 @@
 .add-company{
     background-color: rgb(69, 149, 241);
     border-radius: 10px;
-    padding: 5px 0px;
+    padding: 5px 10px;
+}
+.cart-details{
+    border-radius: 10px;
+    padding: 10px 5px;
+    background-color: white;
+    width: 100%;
+    margin: auto;
+    margin: 0 10px;
 }

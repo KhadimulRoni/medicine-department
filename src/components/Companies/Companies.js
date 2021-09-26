@@ -25,7 +25,6 @@ const Companies = () => {
 
     return (
         <div className="companies container">
-
             <div className="row container">
                 <div className="col-md-9 medicine">
                     <div className="row medicine-details">
@@ -39,8 +38,12 @@ const Companies = () => {
                      }
                     
                     </div>
-                
-                </div>
+
+            </div>
+
+             {/* ------Company cart------- */}
+
+
                 <div className="col-md-3 cart">
                     <Cart cart={cart}></Cart>
                 </div>

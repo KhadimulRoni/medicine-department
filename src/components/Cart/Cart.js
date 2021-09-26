@@ -10,8 +10,8 @@ const Cart = (props) => {
 
     
     return (
-        <div>
-            <h3 className="add-company">Added Company</h3>
+        <div className="cart-details pt-2">
+            <h3 className="add-company">Company Cart</h3>
             <h5>Company added: {cart.length}</h5>
             <p>Total value (Cr. Taka): {total.toFixed(2)}</p>
             <p>
