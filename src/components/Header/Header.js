@@ -8,7 +8,7 @@ const Header = () => {
                 <div className="header">
                     <h1>TOP 10 PHARMACEUTICAL COMPANIES In BD</h1>
                     <h5>Do more, feel better, live longer...Together we can make life better.</h5>
-                    <h1>Total Ammount: 200 Million</h1>
+                    <h1>Total Ammount: 700 Million</h1>
                 </div>
             </div>
         </div>

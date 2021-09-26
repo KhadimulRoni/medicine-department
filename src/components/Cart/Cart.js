@@ -2,6 +2,7 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
+    /* ---Destructuring---- */
     const {cart,name} = props;
     console.log(name)
     
@@ -24,9 +25,8 @@ const Cart = (props) => {
             <h3 className="add-company">Company Cart</h3>
             <h5>Company added: {cart.length}</h5>
             <p className="total-value">Total value (Cr. Taka): {total.toFixed(2)}</p>
-            <div>
-                <ul><p>Name:{Name}</p></ul>
-            </div>
+            <h5 className="mt-5 bg-info">Added Company</h5>
+            <p class>Name:{Name}</p>
             
         </div>
     );

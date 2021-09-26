@@ -10,7 +10,7 @@ const Pharmaceutical = (props) => {
     return (
         <div className="medicine-company col-md-4 py-2">
             <img src={img} alt=""/>
-            <p className="name">Company : {name}</p>
+            <p className="name text-primary">Company : {name}</p>
             <p><small>Established: {established}</small></p>
             <p><small>Company Type: {type}</small></p>
             <p><small>Value (Cr. Taka): {value}</small></p>
