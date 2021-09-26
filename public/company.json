@@ -1,0 +1,102 @@
+[
+    {
+      "rank": 1,
+      "img":"https://thefinancialexpress.com.bd/uploads/1508831644.jpg",
+      "name": "SQUARE",
+      "established": 1958,
+      "type": "Private",
+      "value": 1511.53,
+      "share": 18.78,
+      "rate": 22.03
+    },
+    {
+      "rank": 2,
+      "img":"https://bongonote.com/wp-content/uploads/Incepta-Pharmaceuticals-Ltd.jpg",
+      "name": "INCEPTA PHARMA",
+      "established": 1991,
+      "type": "Private",
+      "value": 740.96,
+      "share": 9.21,
+      "rate": 29.17
+    },
+    {
+      "rank": 3,
+      "img":"https://bongonote.com/wp-content/uploads/Beximco-Pharma.jpg",
+      "name": "BEXIMCO",
+      "established": 1980,
+      "type": "Limited",
+      "value": 703.86,
+      "share": 8.75,
+      "rate": 33.14
+    },
+    {
+      "rank": 4,
+      "img":"https://bongonote.com/wp-content/uploads/opsonin-pharma-company.jpg",
+      "name": "OPSONIN PHARMA",
+      "established": 1956,
+      "type": "Limited",
+      "value": 407.84,
+      "share": 5.07,
+      "rate": 28.81
+    },
+    {
+      "rank": 5,
+      "img":"https://bongonote.com/wp-content/uploads/renata-limited.jpg",
+      "name": "RENATA",
+      "established": 1993,
+      "type": "Limited",
+      "value": 391.56,
+      "share": 4.87,
+      "rate": 27.86
+    },
+    {
+      "rank": 6,
+      "img":"https://bongonote.com/wp-content/uploads/Eskayef-Pharmaceuticals.jpg",
+      "name": "ESKAYEF",
+      "established": 1990,
+      "type": "Limited",
+      "value": 386.34,
+      "share": 4.8,
+      "rate": 22.07
+    },
+    {
+      "rank": 7,
+      "img":"https://bongonote.com/wp-content/uploads/ACME-Laboratories-Ltd.jpg",
+      "name": "ACME",
+      "established": 1954,
+      "type": "Private",
+      "value": 342.57,
+      "share": 4.26,
+      "rate": 16.55
+    },
+    {
+      "rank": 8,
+      "img":"https://bongonote.com/wp-content/uploads/ACI-Limited.jpg",
+      "name": "A.C.I.",
+      "established": 1968,
+      "type": "Public Limited",
+      "value": 337.89,
+      "share": 4.2,
+      "rate": 21.91
+    },
+    {
+      "rank": 9,
+      "img":"https://medex.com.bd/storage/images/company_logos/Se0laSDXU2PlTjr5Y9kSeW3PPeptno.png",
+      "name": "ARISTOPHARMA",
+      "established": 1971,
+      "type": "Private Limited",
+      "value": 324.79,
+      "share": 4.04,
+      "rate": 24.55
+    },
+    {
+      "rank": 10,
+      "img":"https://www.mawbiz.com.bd/application/views/module/logo_image/Drug_International_Ltd_logo.png",
+      "name": "DRUG INTERNATIONAL",
+      "established": 1974,
+      "type": "Private Limited",
+      "value": 292.54,
+      "share": 3.63,
+      "rate": 17.08
+    }
+  ]

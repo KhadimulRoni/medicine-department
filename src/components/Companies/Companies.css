@@ -1,0 +1,17 @@
+.companies{
+    margin-top: 20px;
+}
+.medicine{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+.medicine-details{
+    margin: auto;
+    padding-top: 10px;
+}
+.cart{
+    border: 1px solid lightblue;
+    padding: 5px;
+    border-radius: 10px;
+}
